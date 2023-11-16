@@ -1,3 +1,0 @@
-/home/yungchen/camerasim/cpp/build/CMakeFiles/rebuild_cache.dir
-/home/yungchen/camerasim/cpp/build/CMakeFiles/edit_cache.dir
-/home/yungchen/camerasim/cpp/build/CMakeFiles/fisheye_simulation.dir
